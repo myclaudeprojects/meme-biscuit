@@ -1,0 +1,45 @@
+{
+  "ticker": "BISCUIT",
+  "ticker_lower": "biscuit",
+  "name": "Biscuit",
+  "character": {
+    "name": "Biscuit",
+    "one_liner": "Loyal, loud, and convinced every stranger is a friend.",
+    "visual": "Fluffy orange-and-cream corgi pup with huge upright ears, a white chest ruff, and a happy tongue-out grin"
+  },
+  "tagline": "Every stranger is a friend you haven't barked at yet.",
+  "blurb": "Biscuit greets the whole timeline like it just walked through the front door. Big ears, bigger heart. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/biscuit.webp",
+  "palette": {
+    "primary": "#ff7a59",
+    "secondary": "#ffb347",
+    "accent": "#ffd6e0",
+    "bg": "#fff6f0"
+  },
+  "design": {
+    "seed": "109a0d903481d901",
+    "palette_family": "warm_sunset",
+    "palette_source": "generated",
+    "layout": "offset_card",
+    "layout_source": "generated",
+    "layout_label": "Card-in-card with offset floating mascot",
+    "font_pair": "sofia_karla",
+    "font_source": "generated",
+    "font_display": "Sofia Sans Condensed",
+    "font_body": "Karla",
+    "font_google": "family=Sofia+Sans+Condensed:wght@400;500;600;700;800&family=Karla:wght@400;500;600;700"
+  },
+  "request_id": "biscuit-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Biscuit has never met a stranger. The mail carrier, the neighbor's cat, a leaf that moved suspiciously \u2014 all of them are friends, and all of them get a loud hello.\n\nThose giant ears hear everything: a snack bag opening two rooms away, a doorbell on TV, the word \"walk\" whispered in another language. Biscuit arrives at every one of them first, tongue out, tail going.\n\nSmall legs, full heart, zero indoor voice. Biscuit just wants everyone in the room to feel welcome. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
